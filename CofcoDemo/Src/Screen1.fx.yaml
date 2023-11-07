@@ -1,2 +1,10 @@
 Screen1 As screen:
 
+    Label1 As label:
+        Height: =91
+        Text: ="Hey Buddy, your full name is "& User().FullName
+        Width: =526
+        X: =352
+        Y: =156
+        ZIndex: =1
+
